@@ -1,0 +1,1 @@
+g++ -g -o main main.cpp facultate.cpp materie.cpp profesor.cpp student.cpp
